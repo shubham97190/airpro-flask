@@ -1,0 +1,7 @@
+/ve/
+/virtualenv/
+__*__
+.idea/
+.pdm*
+venv
+__pycache__
